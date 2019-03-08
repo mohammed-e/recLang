@@ -1,0 +1,3 @@
+En el modo supervivencia (survival en inglés) se basa en la vida real a la vez con un poco de fantasía y se trata de la supervivencia al ataque de las múltiples criaturas que surgen en la oscuridad o de noche. El máximo aguante que tienen los personajes consta de 10 corazones, (20 puntos de salud).
+
+El modo extremo (hardcore en inglés) es idéntico al modo supervivencia, con la diferencia de que tras la muerte del jugador se borra el mundo generado y la dificultad está fijada en difícil.
